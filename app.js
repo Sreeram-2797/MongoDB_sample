@@ -1,5 +1,5 @@
-Code for app.js
-Going to edit...
+Code for app.js - Modified by Kachi
+Added  by Kachi
 
 const CreateUser = document.querySelector('.CreateUser')
 CreateUser.addEventListener('submit', (e) => {
