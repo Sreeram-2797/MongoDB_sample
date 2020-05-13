@@ -1,3 +1,5 @@
+Code for app.js
+
 const CreateUser = document.querySelector('.CreateUser')
 CreateUser.addEventListener('submit', (e) => {
   e.preventDefault()
